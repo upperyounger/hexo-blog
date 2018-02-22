@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: SangYang's Blog
+title: UpperYounger
 subtitle:
 description: Just do it!
-author: Sang Yang
+author: UpperYounger
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-## url: http://sangyang.github.io
-## root: /
-url: http://sangyang.github.io/public
-root: /public/
+url: http://sangyang.github.io
+root: /
+##url: http://sangyang.github.io/public
+##root: /public/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -80,4 +80,4 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:SangYang/sangyang.github.io.git
+  repo: https://github.com/upperyounger/upperyounger.github.io.git
